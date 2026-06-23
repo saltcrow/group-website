@@ -1,2 +1,6 @@
 # group-website
-Repo for making websites with GitHub and Jekyll
+Repo for learning to make websites with GitHub and Jekyll
+
+Some **bold** text. 
+
+Some *italicized* font. 
