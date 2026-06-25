@@ -1,3 +1,9 @@
+---
+lesson-example: stuff and more stuff
+---
+
+{% include navigation.html %}
+
 # Building Websites in GitHub
 
 ## Description
