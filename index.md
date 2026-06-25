@@ -1,8 +1,7 @@
 ---
 lesson-example: stuff and more stuff
----
-
 { % layout default.html % }
+---
 
 # Building Websites in GitHub
 
