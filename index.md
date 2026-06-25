@@ -2,7 +2,7 @@
 lesson-example: stuff and more stuff
 ---
 
-{ % include navigation.html % }
+{ % layout default.html % }
 
 # Building Websites in GitHub
 
